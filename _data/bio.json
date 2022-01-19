@@ -1,57 +1,55 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Tanner Young",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "tannerky@hawaii.edu",
+    "phone": "808-343-3014",
+    "website": "https://tanner-ky.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96744",
+      "city": "Kaneohe",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "tanner-ky",
+        "url": "https://tanner-ky.github.io"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Tanner Young",
+        "url": "https://www.linkedin.com/in/tanner-young-0b270b229/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+      //{
+      //  "network": "twitter",
+      //  "username": "mollymal",
+      //  "url": "http://twitter.com/changeme"
+      //},
+      //{
+      //  "network": "instagram",
+      //  "username": "molly",
+      //  "url": "http://instagram.com/changeme"
+      //}
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Gaming Industry",
       "keywords": [
       ]
     }
@@ -64,32 +62,36 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows",
+        "Eclipse",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Linux",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        ICS 314: Software Engineering I
+        ICS 311: CS Algorithms
+        ICS 212: C/C++ Programming
+        ICS 241: Discrete Math II for CS
+        ICS 211: Data Structures
+        ICS 141: Discrete Math I for CS
+        ICS 111: Intro to Java
       ]
     }
   ],
