@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Learning a New Script
+title: Rewriting the Script
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-18
 labels:
