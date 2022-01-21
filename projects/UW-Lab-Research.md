@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gel2.jpg
+image: images/gel2.JPG
 title: UW Lab Research
 permalink: projects/UW-Lab-Research
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: I did research under Chris Hague, Ph.D. for 8 weeks at the Unversity of Washington, Department of Pharmacology.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/gel.jpg">
+<img class="ui medium right floated rounded image" src="../images/gel.JPG">
 
 For 8 weeks, in Summer 2018, I worked in a lab at the University of Washington, Department of Pharmacology under Chris Hague, Ph.D. and Dorathy-Ann Harris, Ph.C.. I conducted research pertaining to generating stable cell lines that would express the Somatostatin Receptor 2 or SSTR2 which is essential for maintaining homeostasis in the body. It inhibits the release of hormones throughout many areas of the body such as the hypothalamus, pituitary gland, and kidneys. During this time, I had to work with one of my peers and the other researchers to complete the experiment and collect accurate data. 
 
