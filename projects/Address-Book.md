@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/home.jpg
+image: images/home.png
 title: Address Book
 permalink: projects/Address-Book
 # All dates must be YYYY-MM-DD format!
