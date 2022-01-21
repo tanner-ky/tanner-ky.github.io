@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gel2.JPG
+image: images/gel2.png
 title: UW Lab Research
 permalink: projects/UW-Lab-Research
 # All dates must be YYYY-MM-DD format!
