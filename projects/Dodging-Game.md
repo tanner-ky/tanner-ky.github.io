@@ -5,7 +5,7 @@ image: images/red.png
 title: Dodging Game
 permalink: projects/Dodging-Game
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-19
+date: 2020-05-01
 labels:
   - Java
   - Eclipse IDE
