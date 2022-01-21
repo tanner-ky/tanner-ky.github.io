@@ -13,7 +13,7 @@ labels:
 summary: I developed an address book with a user interface for the final project in ICS 212.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/address.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/address.JPG">
 
 For my final project in ICS 212 I developed an address book with a user interface that allowed users to add, print, find, or delete their information from a database of records. The code I wrote for this project was originally written in C but I converted it to C++ along with additions for the final project. The code for this project was the most code I had done up to that point and really tested my knowledge on multiple concepts in C and C++. It was really interesting and satisfying to me to be able to combine all the processes and data structures taught throughout the class into one working interface. 
 
