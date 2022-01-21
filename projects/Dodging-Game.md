@@ -12,7 +12,7 @@ labels:
 summary: I developed a dodging game for my ICS 111 final project.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium left floated image">
   <img class="ui image" src="../images/balldodge.JPG">
 </div>
 
