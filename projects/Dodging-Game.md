@@ -9,32 +9,18 @@ date: 2022-01-19
 labels:
   - Java
   - Eclipse IDE
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: I developed a dodging game for my ICS 111 final project.
 ---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/balldodge.JPG">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+For my final project in ICS 111, I developed a dodging game in which you use your cursor to manuver a small dot around the screen in an attempt to avoid the larger dots moving and bouncing around. There was a score counter in the top center of the screen that continually went up the longer you survived while more dots were added in increments of 5 seconds. The game ended when you were hit by one of the larger dots and your final score was displayed along with the option to play again. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I was the sole creator of the code and used Java along side a program called Processing which is essentially a software sketchbook that allowed for an easier creation of the GUI and interface that was utilized in the game. The actual code for this game was fairly difficult for me at first. I struggled heavily with making sure the balls would bounce at the moment they touched the edge of the screen as well as in the correct direction. Although it took a lot of work, I learned a lot from creating this project as it really tested my understanding of the concepts that I had learned throughout ICS 111, as well as incorporating slightly new concepts, in regards to code, such as velocity, angles, keyboard input, and the effect that they have in a visual aspect. 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [Processing Website](https://processing.org/).
 
 
 
