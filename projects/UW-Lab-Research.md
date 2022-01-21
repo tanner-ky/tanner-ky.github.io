@@ -5,7 +5,7 @@ image: images/gel2.JPG
 title: UW Lab Research
 permalink: projects/UW-Lab-Research
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-19
+date: 2018-06-27
 labels:
   - Learning
   - Research
