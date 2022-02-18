@@ -24,4 +24,3 @@ Prior to signing up for RadGrad, I had not heard of a majority of the opportunit
 ## Outlook for the Future
 
 Although I was a little overwhelemed with the amount of different opportunites that are pressent, I will definitely be looking to take advantage of as many as possible in the near future. I have been reading up on some game development and career opportunites since signing up for RadGrad and am excited to see more of what they have to offer. I'm not entirely sure how much of an impact RadGrad will have on my actual path to a degree as I don't picture many of my classes changing. But, it will definitely have an impact on the amount of experience I have by the time I recieve my degree; given the amount of information it has on knowledge outlets. In the upcoming summer and semesters, I'm planning to participate in at least a few computer science programs, listed on RadGrad, to gain that extra experience and set myself up for success post-college.
-
