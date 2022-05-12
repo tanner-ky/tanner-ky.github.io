@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Growing My Skillset
 # All dates must be YYYY-MM-DD format!
-date: 2022-05-11
+date: 2022-05-10
 labels:
   - Software Engineering
   - Agile Project Management
@@ -13,7 +13,7 @@ labels:
 
 ## 
 
-
+Throughout my time in ICS 314, I have learned plethora of new concepts and skills that, not only apply to the assignments and work in class but, I believe will help a lot in my journey in becoming a software engineer. Out of all the computer science classes I have taken thus far, I truly believe that I have gained the most from ICS 314 both in improving the coding aspect of software engineering as well as understanding more of the concepts behind it. A big part of the growth I've made is learning and gaining experience with different development environments and common software engineering tools like Intellij and Github. I had no prior experience with these softwares and have found them to be very interesting and potentially useful in the future. This was made especially apparent to me when applying for internships recentl,y as a majority of them prefer applicants to have experience with things I was just introduced to in ICS 314 like Github.
 
 <img class="ui medium right floated image" src="../images/designpatterns.png">
 
