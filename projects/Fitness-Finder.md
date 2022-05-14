@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/fitness-finder.PNG
+image: images/fitness-finer.PNG
 title: Fitness Finder
 permalink: projects/Fitness-Finder
 # All dates must be YYYY-MM-DD format!
