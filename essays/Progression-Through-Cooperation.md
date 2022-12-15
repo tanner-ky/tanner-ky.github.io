@@ -15,7 +15,7 @@ labels:
 
 Throughout this semester in ICS 414, I've grown a lot as a software engineer in both my coding mechanics and my ability to interact and work with teammates and customers. During this course, I worked with my team to develop a legislative bill tracker that could be used for both the Department of Education and the University of Hawaii. I learned and experimented with new tools in javascript that enabled me and my teammates to create an efficient and functional web page. Along with the new skills I attained, I believe that this course helped a lot with sharpening skills I had beforehand, in terms of web development, and allowed me to refine them as well as prove I could apply previous knowlegde to a new project. 
 
-<img class="ui medium left floated image" src="../images/logo1.png">
+<img class="ui medium left floated image" src="../images/logo1.PNG">
 
 ## Large Group Work
 
