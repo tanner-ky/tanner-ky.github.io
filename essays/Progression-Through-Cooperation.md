@@ -23,4 +23,4 @@ This was my first experience working in a large group of 10+ members and it was 
 
 ## Working for Someone
 
-This was also my first experience working for a customer and having to communicate our progress back and forth to compare it to their needs and expectations. Previous major projects that I've worked on were more flexible in that the features of the program or website were largely up to me. It was a lot more challenging to be given a list of faults and inconveniences with their previous bill tracking system and having to find our own ways to solve them. 
+This was also my first experience working for a customer and having to communicate our progress back and forth to compare it to their needs and expectations. Previous major projects that I've worked on were more flexible in that the features of the program or website were largely up to me. It was a lot more challenging to be given a list of faults and inconveniences with their previous bill tracking system and having to find our own ways to solve them. Although it was more challenging, it was also fun being able to develop our own solutions and form the application based on what we felt would work best. 
