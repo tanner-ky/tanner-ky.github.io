@@ -147,7 +147,13 @@
   "references": [
     {
       "name": "De'broski Herbert, PhD",
-      "reference": "Penn Presidential Professor of Immunology", "University of Pennsylvania, PennVet", "3800 Spruce St. Old Vet Quad 367E", "Philadelphia, PA 1904", "debroski@vet.upenn.edu"
+      "reference": [
+        "Penn Presidential Professor of Immunology", 
+        "University of Pennsylvania, PennVet", 
+        "3800 Spruce St. Old Vet Quad 367E", 
+        "Philadelphia, PA 1904", 
+        "debroski@vet.upenn.edu"
+        ]
     }
   ]
 }
