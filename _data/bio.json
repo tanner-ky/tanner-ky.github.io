@@ -109,6 +109,17 @@
       ]
     },
     {
+      "company": "University of Washington",
+      "position": "Lab Intern",
+      "website": "http://www.washington.edu/",
+      "startDate": "2018",
+      "summary": "Worked as an intern at the University of Washington under Dr. Chris Hague, PhD",
+      "highlights": [
+        "Conducted research on generating stable cell lines expressing the Somatostatin receptor 2",
+        "Used various lab skills to conduct the experiments"
+      ]
+    },
+    {
       "company": "University of Pennsylvania",
       "position": "Lab Intern",
       "website": "https://www.upenn.edu/",
@@ -118,17 +129,6 @@
         "Conducted research on Trefoil factors and LINGO genes effect on immune response",
         "Used various lab skills to conduct the experiments",
         "Cited as a coauthor in the completed research paper"
-      ]
-    },
-    {
-      "company": "University of Washington",
-      "position": "Lab Intern",
-      "website": "http://www.washington.edu/",
-      "startDate": "2018",
-      "summary": "Worked as an intern at the University of Washington under Dr. Chris Hague, PhD",
-      "highlights": [
-        "Conducted research on generating stable cell lines expressing the Somatostatin receptor 2",
-        "Used various lab skills to conduct the experiments"
       ]
     }
   ],
