@@ -6,7 +6,7 @@
     "email": "tannerky@hawaii.edu",
     "phone": "808-343-3014",
     "website": "https://tanner-ky.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Winter, 2023.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": {
       "address": "",
       "postalCode": "96744",
@@ -64,6 +64,7 @@
         "Eclipse",
         "Git/GitHub",
         "Linux",
+        "PuTTY",
       ]
     }
   ],
@@ -76,7 +77,9 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 451: Data Networks",
         "ICS 414: Software Engineering II",
+        "ICS 332: Operating Systems",
         "ICS 321: Database Systems I",
         "ICS 314: Software Engineering I",
         "ICS 313: Programming Language Theory",
@@ -94,8 +97,8 @@
       "company": "University of Pennsylvania",
       "position": "Lab Intern",
       "website": "https://www.upenn.edu/",
-      "startDate": "2017",
-      "endDate": "",
+      "startDate": "June 2017",
+      "endDate": "August 2017",
       "summary": "Worked as an intern at Penn Vet under Dr. De'broski R. Herbert, PhD and Dr. Yingbiao Ji, PhD",
       "highlights": [
         "Conducted research on Trefoil factors and LINGO genes effect on immune response",
@@ -107,8 +110,8 @@
       "company": "University of Washington",
       "position": "Lab Intern",
       "website": "http://www.washington.edu/",
-      "startDate": "2018",
-      "endDate": "",
+      "startDate": "June 2018",
+      "endDate": "August 2018",
       "summary": "Worked as an intern at the University of Washington under Dr. Chris Hague, PhD",
       "highlights": [
         "Conducted research on generating stable cell lines expressing the Somatostatin receptor 2",
