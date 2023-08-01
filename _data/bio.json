@@ -64,7 +64,9 @@
         "Eclipse",
         "Git/GitHub",
         "Linux",
-        "PuTTY"
+        "PuTTY",
+        "Arduino IDE",
+        "LSTS"
       ]
     }
   ],
@@ -94,11 +96,24 @@
   ],
   "work": [
     {
+      "company": "Applied Research Laboratory at the University of Hawaii",
+      "position": "Computer Science Assistant",
+      "website": "https://arl.hawaii.edu/",
+      "startDate": "2023",
+      "summary": "Worked as computer science assistant under Noah Hafner, PhD",
+      "highlights": [
+        "Conducted a trade study on single board computers as an alternative for the Raspberry Pi Zero",
+        "Worked with Protocol Buffers for serializing and transferring structured data using microcontrollers",
+        "Gathered, logged, and parsed data from a variety of sensors using Python",
+        "Tested a variety of hardware components for compatability with the LSTS toolchain"
+      ]
+    },
+    {
       "company": "University of Pennsylvania",
       "position": "Lab Intern",
       "website": "https://www.upenn.edu/",
       "startDate": "2017",
-      "summary": "Worked as an intern at Penn Vet under Dr. De'broski R. Herbert, PhD and Dr. Yingbiao Ji, PhD",
+      "summary": "Worked as an intern at Penn Vet under De'broski R. Herbert, PhD and Yingbiao Ji, PhD",
       "highlights": [
         "Conducted research on Trefoil factors and LINGO genes effect on immune response",
         "Used various lab skills to conduct the experiments",
