@@ -103,7 +103,7 @@
       "summary": "Worked as computer science assistant under Noah Hafner, PhD",
       "highlights": [
         "Conducted a trade study on single board computers as an alternative for the Raspberry Pi Zero",
-        "Worked with Protocol Buffers for serializing and transferring structured data using microcontrollers",
+        "Developed new capabilities with existing hardware for debugging and troubleshooting",
         "Gathered, logged, and parsed data from a variety of sensors using Python",
         "Tested a variety of hardware components for compatability with the LSTS toolchain"
       ]
