@@ -6,7 +6,7 @@
     "email": "tannerky@hawaii.edu",
     "phone": "808-343-3014",
     "website": "https://tanner-ky.github.io",
-    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Spring, 2024.",
+    "summary": "I graduated with a B.S. in Computer Science at the University of Hawaii at Manoa.",
     "location": {
       "address": "",
       "postalCode": "96744",
@@ -73,10 +73,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2019",
-      "endDate": "Present",
+      "endDate": "2024",
       "gpa": "",
       "courses": [
         "ICS 451: Data Networks",
@@ -156,7 +156,7 @@
     },
     {
       "title": "Dean's List",
-      "date": "2020, 2022",
+      "date": "2020, 2022, 2024",
       "awarder": "University of Hawai'i at Manoa",
       "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
     }
