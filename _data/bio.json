@@ -77,20 +77,8 @@
       "studyType": "B.S.",
       "startDate": "2019",
       "endDate": "2024",
-      "gpa": "",
+      "gpa": "3.55",
       "courses": [
-        "ICS 451: Data Networks",
-        "ICS 414: Software Engineering II",
-        "ICS 332: Operating Systems",
-        "ICS 321: Database Systems I",
-        "ICS 314: Software Engineering I",
-        "ICS 313: Programming Language Theory",
-        "ICS 311: CS Algorithms",
-        "ICS 212: C/C++ Programming",
-        "ICS 241: Discrete Math II for CS",
-        "ICS 211: Data Structures",
-        "ICS 141: Discrete Math I for CS",
-        "ICS 111: Intro to Java"
       ]
     }
   ],
