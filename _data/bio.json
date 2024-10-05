@@ -83,6 +83,18 @@
   ],
   "work": [
     {
+      "company": "Central Pacific Bank",
+      "position": "Computer Operator",
+      "website": "https://www.cpb.bank/",
+      "startDate": "2024",
+      "summary": "Worked as Computer Operator at the Central Pacific Bank Operations Center",
+      "highlights": [
+        "Handled and processed lockbox documents containing sensitive information on a daily basis",
+        "Verified and sorted significant amounts of payment documents",
+        "Accurately logged and documented payment information"
+      ]
+    },
+    {
       "company": "Applied Research Laboratory at the University of Hawaii",
       "position": "Computer Science Assistant",
       "website": "https://arl.hawaii.edu/",
