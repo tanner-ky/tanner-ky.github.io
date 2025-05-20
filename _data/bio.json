@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Tanner Young",
-    "label": "Student",
+    "label": "Software Engineer",
     "picture": "https://tanner-ky.github.io/images/tanner.png",
     "email": "tannerky@hawaii.edu",
     "phone": "808-343-3014",
@@ -66,7 +66,9 @@
         "Linux",
         "PuTTY",
         "Arduino IDE",
-        "LSTS"
+        "React",
+        "MongoDB",
+        "Node.js"
       ]
     }
   ],
