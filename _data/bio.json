@@ -88,7 +88,7 @@
       "company": "Central Pacific Bank",
       "position": "Computer Operator",
       "website": "https://www.cpb.bank/",
-      "startDate": "2024",
+      "startDate": "August 2024",
       "endDate": "Present",
       "summary": "Worked as Computer Operator at the Central Pacific Bank Operations Center",
       "highlights": [
@@ -101,7 +101,8 @@
       "company": "Applied Research Laboratory at the University of Hawaii",
       "position": "Computer Science Assistant",
       "website": "https://arl.hawaii.edu/",
-      "startDate": "2023",
+      "startDate": "June 2023",
+      "endDate": "August 2023",
       "summary": "Worked as computer science assistant under Noah Hafner, PhD",
       "highlights": [
         "Conducted a trade study on single board computers as an alternative for the Raspberry Pi Zero",
@@ -114,7 +115,8 @@
       "company": "University of Washington",
       "position": "Lab Intern",
       "website": "http://www.washington.edu/",
-      "startDate": "2018",
+      "startDate": "June 2018",
+      "endDate": "August 2018",
       "summary": "Worked as an intern at the University of Washington under Dr. Chris Hague, PhD",
       "highlights": [
         "Conducted research on generating stable cell lines expressing the Somatostatin receptor 2",
@@ -127,7 +129,7 @@
       "position": "Lab Intern",
       "website": "https://www.upenn.edu/",
       "startDate": "June 2017",
-      "endDate": "August 2018",
+      "endDate": "August 2017",
       "summary": "Worked as an intern at Penn Vet under De'broski R. Herbert, PhD and Yingbiao Ji, PhD",
       "highlights": [
         "Conducted research on Trefoil factors and LINGO genes effect on immune response",
