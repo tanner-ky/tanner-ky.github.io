@@ -103,7 +103,7 @@
       "endDate": "August 2023",
       "summary": "Worked as computer science assistant under Noah Hafner, PhD",
       "highlights": [
-        "Conducted a trade study on single board computers as an alternative for the Raspberry Pi Zero",
+        "Conducted a trade study on single board computers alternatives",
         "Developed new capabilities for debugging and troubleshooting",
         "Gathered, logged, and parsed data from a variety of sensors using Python",
         "Tested hardware components for compatibility with the LSTS toolchain"
@@ -140,11 +140,7 @@
       "position": "Sunday School Assistant",
       "startDate": "2014",
       "endDate": "2016",
-      "summary": "Helped to teach children in Sunday School",
-      "highlights": [
-        "Worked with groups of younger children",
-        "Explained and aided them in understanding the message each week"
-      ]
+      "summary": "Taught groups of young children in Sunday School",
     }
   ],
   "awards": [
