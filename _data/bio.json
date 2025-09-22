@@ -103,9 +103,8 @@
       "endDate": "Aug 2023",
       "summary": "Worked as computer science assistant under Noah Hafner, PhD",
       "highlights": [
-        "Conducted a trade study on single board computers alternatives",
-        "Developed new capabilities for debugging and troubleshooting",
         "Gathered, logged, and parsed data from a variety of sensors using Python",
+        "Developed new capabilities for debugging and troubleshooting",
         "Tested hardware components for compatibility with the LSTS toolchain"
       ]
     },
@@ -140,7 +139,7 @@
       "position": "Sunday School Assistant",
       "startDate": "2014",
       "endDate": "2016",
-      "summary": "Taught groups of young children in Sunday School",
+      "summary": "Instructed groups of children in Sunday School",
     }
   ],
   "awards": [
