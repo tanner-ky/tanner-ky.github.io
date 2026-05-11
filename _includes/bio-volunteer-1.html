@@ -16,7 +16,6 @@
             {{ entry.position }}{% if entry.website and (entry.website != "") %}, <a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a> {% endif %}
           </b>
         </p>
-        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
         <p class="ui no-bottom">{{ entry.summary }}</p>
         {% if entry.highlights %}
         <ul style="margin: 0px;">
