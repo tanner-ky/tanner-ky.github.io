@@ -96,7 +96,7 @@
       "summary": "Worked as Computer Operator at the Central Pacific Bank Operations Center",
       "highlights": [
         "Processed payment documents containing sensitive information",
-        "Downloaded and processed bank reports and statements",
+        "Cut costs by digitizing logs that led to ~150 less papers printed per week",
         "Improved efficiency and effectiveness of multiple bank processes"
       ]
     },
@@ -108,7 +108,7 @@
       "summary": "Worked as computer science assistant under Noah Hafner, PhD",
       "highlights": [
         "Gathered, logged, and parsed temperature, voltage, and GPS data at one second intervals using Python",
-        "Developed new capabilities for debugging and troubleshooting",
+        "Enabled for real-time data analysis for voltage drops, overheating, and locating assets in the field",
         "Tested hardware components for compatibility with the LSTS toolchain"
       ]
     }
