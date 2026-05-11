@@ -107,7 +107,7 @@
       "endDate": "Aug 2023",
       "summary": "Worked as computer science assistant under Noah Hafner, PhD",
       "highlights": [
-        "Gathered, logged, and parsed data from a variety of sensors using Python",
+        "Gathered, logged, and parsed temperature, voltage, and GPS data at one second intervals using Python",
         "Developed new capabilities for debugging and troubleshooting",
         "Tested hardware components for compatibility with the LSTS toolchain"
       ]
