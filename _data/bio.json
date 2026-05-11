@@ -3,7 +3,7 @@
     "name": "Tanner Young",
     "label": "Software Engineer",
     "picture": "https://tanner-ky.github.io/images/tanner.png",
-    "email": "tannerky@hawaii.edu",
+    "email": "rennat808@hawaii.rr.com",
     "phone": "808-343-3014",
     "website": "https://tanner-ky.github.io",
     "summary": "I graduated with a B.S. in Computer Science at the University of Hawaii at Manoa.",
@@ -111,36 +111,12 @@
         "Developed new capabilities for debugging and troubleshooting",
         "Tested hardware components for compatibility with the LSTS toolchain"
       ]
-    },
-    {
-      "company": "University of Washington",
-      "position": "Lab Intern",
-      "startDate": "Jun 2018",
-      "endDate": "Aug 2018",
-      "summary": "Worked as an intern at the University of Washington under Dr. Chris Hague, PhD",
-      "highlights": [
-        "Generated stable cell lines expressing Somatostatin receptor 2",
-        "Collaborated with and learned from a team of graduate students",
-        "Used various lab skills to conduct the experiments"
-      ]
-    },
-    {
-      "company": "University of Pennsylvania",
-      "position": "Lab Intern",
-      "startDate": "Jun 2017",
-      "endDate": "Aug 2017",
-      "summary": "Worked as an intern at Penn Vet under De'broski R. Herbert, PhD and Yingbiao Ji, PhD",
-      "highlights": [
-        "Researched Trefoil factor and LINGO genes' effect on immune response",
-        "Worked with multiple PhDs and graduate students to further my research",
-        "Cited as a coauthor in the completed research paper"
-      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Kailua Baptist Church",
-      "position": "Sunday School Assistant",
+      "organization": "Fitness Finder",
+      "position": "",
       "startDate": "2014",
       "endDate": "2016",
       "summary": "Instructed groups of children in Sunday School",
