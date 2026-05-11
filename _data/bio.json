@@ -115,15 +115,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Fitness Finder",
-      "position": "",
-      "startDate": "2014",
-      "endDate": "2016",
-      "summary": "Instructed groups of children in Sunday School",
+      "organization": "https://fitness-finder.github.io/",
+      "position": "Fitness Finder Web Application",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Allowed University of Hawaii students to create and join group fitness activities improving socialization and physical health among the student body",
       "highlights": [
-        "Processed payment documents containing sensitive information",
-        "Downloaded and processed bank reports and statements",
-        "Improved efficiency and effectiveness of multiple bank processes"
+        "Utilized React, Meteor, Node.js, and MongoDB for full stack development",
+        "Worked in a team of four, using issue-driven project management and consistent communication for seemless workflow",
+        "Many functional and visually appealing webpages viewable at https://fitness-finder.github.io/"
       ]
     }
   ],
