@@ -115,12 +115,12 @@
   ],
   "volunteer": [
     {
-      "organization": "fitness-finder.github.io",
-      "position": "Fitness Finder",
+      "organization": "",
+      "position": "Fitness Finder Web Application",
       "website": "https://fitness-finder.github.io",
       "startDate": "",
       "endDate": "",
-      "summary": "Web application that allowed University of Hawaii students to create and join group fitness activities improving socialization and physical health among the student body",
+      "summary": "Allowed University of Hawaii students to create and join group fitness activities improving socialization and physical health among the student body",
       "highlights": [
         "Utilized React, Meteor, Node.js, and MongoDB for full stack development",
         "Worked in a team of four, using issue-driven project management and consistent communication for seemless workflow",
