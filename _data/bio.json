@@ -120,11 +120,10 @@
       "website": "https://fitness-finder.github.io",
       "startDate": "Jan 2021",
       "endDate": "May 2021",
-      "summary": "Allowed University of Hawaii students to create and join group fitness activities improving socialization and physical health among the student body",
+      "summary": "Allowed students to create and join group fitness activities to improve socialization and physical health",
       "highlights": [
         "Utilized React, Meteor, Node.js, and MongoDB for full stack development",
-        "Worked in a team of four using issue-driven project management",
-        "Many functional and visually appealing webpages viewable at https://fitness-finder.github.io/"
+        "Worked in a team of four using issue-driven project management"
       ]
     },
     {
@@ -137,7 +136,6 @@
       "highlights": [
         "Utilized React, Meteor, Node.js, and MongoDB for full stack development",
         "Worked in a team of 10 meeting weekly as a group and biweekly with the client",
-        "Implemented multiple forms, a self-updating calendar, search functions, and progress bars"
       ]
     }
   ],
