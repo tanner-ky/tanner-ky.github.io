@@ -116,18 +116,6 @@
   "volunteer": [
     {
       "organization": "",
-      "position": "Fitness Finder Web Application",
-      "website": "https://fitness-finder.github.io",
-      "startDate": "Jan 2021",
-      "endDate": "May 2021",
-      "summary": "Allowed students to create and join group fitness activities to improve socialization and physical health",
-      "highlights": [
-        "Utilized React, Meteor, Node.js, and MongoDB for full stack development",
-        "Worked in a team of four using issue-driven project management"
-      ]
-    },
-    {
-      "organization": "",
       "position": "HI DOE Legislative Bill Tracker",
       "website": "https://hi-doe-tracker.github.io",
       "startDate": "Aug 2022",
@@ -136,6 +124,18 @@
       "highlights": [
         "Utilized React, Meteor, Node.js, and MongoDB for full stack development",
         "Worked in a team of 10 meeting weekly as a group and biweekly with the client",
+      ]
+    },
+    {
+      "organization": "",
+      "position": "Fitness Finder Web Application",
+      "website": "https://fitness-finder.github.io",
+      "startDate": "Jan 2021",
+      "endDate": "May 2021",
+      "summary": "Allowed students to create and join group fitness activities to improve socialization and physical health",
+      "highlights": [
+        "Utilized React, Meteor, Node.js, and MongoDB for full stack development",
+        "Worked in a team of four using issue-driven project management"
       ]
     }
   ],
