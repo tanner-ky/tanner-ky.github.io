@@ -132,7 +132,7 @@
       "position": "HI Department of Education Legislative Bill Tracker",
       "website": "https://hi-doe-tracker.github.io/",
       "startDate": "Aug 2022",
-      "endDate": "December 2022",
+      "endDate": "Dec 2022",
       "summary": "Worked directly with DOE members to create an improved interface for legislative bill tracking and scheduling",
       "highlights": [
         "Utilized React, Meteor, Node.js, and MongoDB for full stack development",
