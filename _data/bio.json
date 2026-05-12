@@ -126,6 +126,19 @@
         "Worked in a team of four using issue-driven project management",
         "Many functional and visually appealing webpages viewable at https://fitness-finder.github.io/"
       ]
+    },
+    {
+      "organization": "",
+      "position": "HI Department of Education Legislative Bill Tracker",
+      "website": "https://hi-doe-tracker.github.io/",
+      "startDate": "Aug 2022",
+      "endDate": "December 2022",
+      "summary": "Worked directly with DOE members to create an improved interface for legislative bill tracking and scheduling",
+      "highlights": [
+        "Utilized React, Meteor, Node.js, and MongoDB for full stack development",
+        "Worked in a team of 10 meeting weekly as a group and biweekly with the client",
+        "Implemented multiple forms, a self-updating calendar, search functions, and progress bars"
+      ]
     }
   ],
   "awards": [
