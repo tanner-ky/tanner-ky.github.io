@@ -99,8 +99,8 @@
       "endDate": "Aug 2023",
       "summary": "Worked as a Computer Science Assistant under Noah Hafner, PhD",
       "highlights": [
-        "Gathered, logged, and parsed temperature, voltage, and GPS data at one second intervals using Python",
-        "Enabled for real-time data analysis for voltage drops, overheating, and locating assets in the field",
+        "Developed Python software to collect parse and analyze GPS, voltage, and temperature data at one-second intervals",
+        "Enabled real-time monitoring and fault detection",
         "Tested hardware components for compatibility with the LSTS toolchain"
       ]
     }
@@ -114,8 +114,10 @@
       "endDate": "Dec 2022",
       "summary": "Worked directly with DOE members to create an improved interface for legislative bill tracking and scheduling",
       "highlights": [
-        "Utilized React, Meteor, Node.js, and MongoDB for full stack development",
-        "Worked in a team of 10 meeting weekly as a group and biweekly with the client",
+        "Designed REST API integrations",
+        "Implemented responsive React components",
+        "Collaborated with team members using Git workflow",
+        "Participated in Agile sprint planning"
       ]
     },
     {
@@ -127,22 +129,9 @@
       "summary": "Allowed students to create and join group fitness activities to improve socialization and physical health",
       "highlights": [
         "Utilized React, Meteor, Node.js, and MongoDB for full stack development",
-        "Worked in a team of four using issue-driven project management"
+        "Implemented responsive React components",
+        "Collaborated with team members utilizing issue-driven project management"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Manoa Academic Merit Scholarship",
-      "date": "2019-2023",
-      "awarder": "University of Hawai'i at Manoa",
-      "summary": "Granted to students with a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa."
-    },
-    {
-      "title": "Dean's List",
-      "date": "2020, 2022, 2024",
-      "awarder": "University of Hawai'i at Manoa",
-      "summary": "Awarded for earning a semester grade point average of 3.5 or higher based on 12 credits or more."
     }
   ],
   "references": [
