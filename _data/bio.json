@@ -30,51 +30,43 @@
   "interests": [
     {
       "name": "Software Engineer with experience in Python automation, full-stack web development, and systems programming. Interested in application development, AI, and cybersecurity. Open to remote positions and relocation.",
-    },
-    {
-      "name": "Application Development",
-      "keywords": []
-    },
-    {
-      "name": "Artificial Intelligence",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Information Security",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "SQL"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Frameworks",
       "level": "",
       "keywords": [
-        "Windows",
-        "Eclipse",
-        "SQL",
-        "Unix",
-        "Git/GitHub",
-        "Linux",
-        "PuTTY",
-        "Arduino IDE",
         "React",
         "MongoDB",
         "Node.js"
       ]
+    },
+    {
+      "name": "Developer Tools",
+      "level": "",
+      "keywords": [
+        "Eclipse",
+        "Unix",
+        "Git/GitHub",
+        "Linux",
+        "PuTTY",
+        "Arduino IDE"
+      ]
     }
+    
   ],
   "education": [
     {
