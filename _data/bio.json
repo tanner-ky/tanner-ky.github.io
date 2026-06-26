@@ -99,7 +99,7 @@
       "endDate": "Aug 2023",
       "summary": "Worked as a Computer Science Assistant under Noah Hafner, PhD",
       "highlights": [
-        "Developed Python software to collect parse and analyze GPS, voltage, and temperature data at one-second intervals",
+        "Developed Python software to collect, parse, and analyze GPS, voltage, and temperature data at one-second intervals",
         "Enabled real-time monitoring and fault detection",
         "Tested hardware components for compatibility with the LSTS toolchain"
       ]
