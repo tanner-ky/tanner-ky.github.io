@@ -77,17 +77,6 @@
     }
     
   ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2019",
-      "endDate": "2024",
-      "gpa": "3.55",
-      "courses": "3.55 GPA",
-    }
-  ],
   "work": [
     {
       "company": "Central Pacific Bank",
@@ -150,10 +139,19 @@
       "endDate": "May 2021",
       "summary": "Allowed students to create and join group fitness activities to improve socialization and physical health",
       "highlights": [
-        "Utilized React, Meteor, Node.js, and MongoDB for full stack development",
-        "Implemented responsive React components",
-        "Collaborated with team members utilizing issue-driven project management"
+        "Built a full-stack web application using React, Meteor, Node.js, and MongoDB",
+        "Developed responsive UI components and collaborated using an issue-driven Git workflow"
       ]
     }
   ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2019",
+      "endDate": "2024",
+      "courses": "3.55 GPA"
+    }
+  ]
 }
