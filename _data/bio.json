@@ -37,12 +37,23 @@
       "name": "Languages",
       "level": "",
       "keywords": [
+        "Python",
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Python",
         "SQL"
+      ]
+    },
+    {
+      "name": "Computer Vision & AI",
+      "level": "",
+      "keywords": [
+        "Github Copilot",
+        "Codex",
+        "OpenCV",
+        "SSIM",
+        "Video & Image Processing"
       ]
     },
     {
@@ -58,11 +69,11 @@
       "name": "Developer Tools",
       "level": "",
       "keywords": [
-        "Eclipse",
-        "Unix",
         "Git/GitHub",
+        "VS Code",
+        "Eclipse",
         "Linux",
-        "PuTTY",
+        "Jupyter Notebook",
         "Arduino IDE"
       ]
     }
@@ -106,6 +117,20 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "",
+      "position": "AI Gameplay Analytics Platform (Personal Project)",
+      "website": "",
+      "startDate": "May 2026",
+      "endDate": "Present",
+      "summary": "Designed and developed a modular computer vision pipeline that analyzes gameplay videos to identify player engagements and extract game-state information",
+      "highlights": [
+        "Designed REST API integrations",
+        "Implemented responsive React components",
+        "Collaborated with team members using Git workflow",
+        "Participated in Agile sprint planning"
+      ]
+    },
     {
       "organization": "",
       "position": "HI DOE Legislative Bill Tracker",
