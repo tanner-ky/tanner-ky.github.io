@@ -49,8 +49,6 @@
       "name": "Computer Vision & AI",
       "level": "",
       "keywords": [
-        "Github Copilot",
-        "Codex",
         "OpenCV",
         "SSIM",
         "Video & Image Processing"
@@ -98,7 +96,7 @@
       "endDate": "Present",
       "summary": "Worked as a Computer Operator at the Central Pacific Bank Operations Center",
       "highlights": [
-        "Processed payment documents containing sensitive information",
+        "Processed high-volume payment documents while maintaining data integrity and security",
         "Digitized logs leading to ~150 less papers printed per week",
         "Improved efficiency of bank processes by 30%"
       ]
@@ -158,10 +156,4 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
 }
