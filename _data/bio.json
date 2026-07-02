@@ -99,8 +99,8 @@
       "summary": "Worked as a Computer Operator at the Central Pacific Bank Operations Center",
       "highlights": [
         "Processed payment documents containing sensitive information",
-        "Cut costs by digitizing logs that led to ~150 less papers printed per week",
-        "Improved efficiency and effectiveness of multiple bank processes by 30%"
+        "Digitized logs leading to ~150 less papers printed per week",
+        "Improved efficiency of bank processes by 30%"
       ]
     },
     {
@@ -125,10 +125,9 @@
       "endDate": "Present",
       "summary": "Designed and developed a modular computer vision pipeline that analyzes gameplay videos to identify player engagements and extract game-state information",
       "highlights": [
-        "Designed REST API integrations",
-        "Implemented responsive React components",
-        "Collaborated with team members using Git workflow",
-        "Participated in Agile sprint planning"
+        "Implemented configurable HUD sensors using normalized screen regions and SSIM-based image comparison to identify game-state changes across varying video resolutions",
+        "Built reusable debugging and visualization tools to test, validate, and tune sensor performance throughout the development process",
+        "Architected the application with a scalable, configuration-driven design to support future OCR, object detection, and gameplay analytics features"
       ]
     },
     {
