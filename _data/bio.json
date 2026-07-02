@@ -123,11 +123,11 @@
       "website": "",
       "startDate": "May 2026",
       "endDate": "Present",
-      "summary": "Designed and developed a modular computer vision pipeline that analyzes gameplay videos to identify player engagements and extract game-state information",
+      "summary": "Developed a computer vision pipeline for gameplay event detection from video",
       "highlights": [
-        "Implemented configurable HUD sensors using normalized screen regions and SSIM-based image comparison to identify game-state changes across varying video resolutions",
-        "Built reusable debugging and visualization tools to test, validate, and tune sensor performance throughout the development process",
-        "Architected the application with a scalable, configuration-driven design to support future OCR, object detection, and gameplay analytics features"
+        "Built configurable HUD sensors using SSIM-based image analysis",
+        "Created visualization tools for sensor testing and performance validation",
+        "Designed a modular architecture supporting future OCR and analytics capabilities"
       ]
     },
     {
