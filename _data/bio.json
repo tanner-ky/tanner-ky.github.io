@@ -78,7 +78,7 @@
       "position": "Computer Operator",
       "startDate": "Aug 2024",
       "endDate": "Present",
-      "summary": "Worked as a Computer Operator at the Central Pacific Bank Operations Center",
+      "summary": "",
       "highlights": [
         "Processed high-volume payment documents while maintaining data integrity and security",
         "Digitized logs leading to ~150 less papers printed per week",
@@ -90,7 +90,7 @@
       "position": "Computer Science Assistant",
       "startDate": "Jun 2023",
       "endDate": "Aug 2023",
-      "summary": "Worked as a Computer Science Assistant under Noah Hafner, PhD",
+      "summary": "",
       "highlights": [
         "Developed Python software to collect, parse, and analyze GPS, voltage, and temperature data at one-second intervals",
         "Enabled real-time monitoring and fault detection",
@@ -102,12 +102,12 @@
     {
       "organization": "",
       "position": "AI Gameplay Analytics Platform (Personal Project)",
-      "website": "",
+      "website": "https://github.com/tanner-ky/valorant-ai-coach",
       "startDate": "May 2026",
       "endDate": "Present",
-      "summary": "Developed a computer vision pipeline for gameplay event detection from video",
+      "summary": "Built a modular computer vision pipeline for gameplay event detection",
       "highlights": [
-        "Built configurable HUD sensors using SSIM-based image analysis",
+        "Developed configurable HUD sensors using SSIM-based change detection",
         "Created visualization tools for sensor testing and performance validation",
         "Designed a modular architecture supporting future OCR and analytics capabilities"
       ]
@@ -118,12 +118,10 @@
       "website": "https://hi-doe-tracker.github.io",
       "startDate": "Aug 2022",
       "endDate": "Dec 2022",
-      "summary": "Worked directly with DOE members to create an improved interface for legislative bill tracking and scheduling",
+      "summary": "Collaborated with Hawaii DOE stakeholders to develop a legislative bill tracking platform",
       "highlights": [
-        "Designed REST API integrations",
-        "Implemented responsive React components",
-        "Collaborated with team members using Git workflow",
-        "Participated in Agile sprint planning"
+        "Integrated REST APIs and developed responsive React components",
+        "Participated in Agile sprint planning and Git-based team workflows"
       ]
     },
     {
