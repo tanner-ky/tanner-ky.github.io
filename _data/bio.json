@@ -41,33 +41,36 @@
       ]
     },
     {
-      "name": "Computer Vision & AI",
+      "name": "Technologies",
       "level": "",
       "keywords": [
         "OpenCV",
-        "SSIM",
-        "Video & Image Processing"
-      ]
-    },
-    {
-      "name": "Frameworks",
-      "level": "",
-      "keywords": [
         "React",
-        "MongoDB",
-        "Node.js"
+        "Node.js",
+        "MongoDB"
       ]
     },
     {
-      "name": "Developer Tools",
+      "name": "Tools",
       "level": "",
       "keywords": [
-        "Git/GitHub",
-        "VS Code",
-        "Eclipse",
+        "Git",
+        "GitHub",
         "Linux",
+        "VS Code",
         "Jupyter Notebook",
-        "Arduino IDE"
+        "Eclipse"
+      ]
+    },
+    {
+      "name": "Concepts",
+      "level": "",
+      "keywords": [
+        "REST APIs",
+        "Object-Oriented Programming",
+        "Computer Vision",
+        "Data Analysis",
+        "Agile"
       ]
     }
     
