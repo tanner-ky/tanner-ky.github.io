@@ -108,11 +108,11 @@
       "website": "https://github.com/tanner-ky/valorant-ai-coach",
       "startDate": "May 2026",
       "endDate": "Present",
-      "summary": "Built a modular computer vision pipeline for gameplay event detection",
+      "summary": "Designed and developed a modular computer vision analytics platform in Python for automated gameplay analysis",
       "highlights": [
-        "Developed configurable HUD sensors using SSIM-based change detection",
+        "Built configurable HUD sensors using SSIM and template matching",
         "Created visualization tools for sensor testing and performance validation",
-        "Designed a modular architecture supporting future OCR and analytics capabilities"
+        "Designed an extensible architecture supporting future OCR and analytics capabilities"
       ]
     },
     {
